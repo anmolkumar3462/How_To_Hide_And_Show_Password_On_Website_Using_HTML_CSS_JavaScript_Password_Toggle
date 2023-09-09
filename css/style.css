@@ -1,0 +1,33 @@
+.fs-7 {font-size: 36px}
+.fs-8 {font-size: 40px}
+.fs-9 {font-size: 45px}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'poppins' , sans-serif;
+}
+.body{
+    background: powderblue;
+}
+
+.input-box{
+    background-color: #fff;
+    margin: 100px auto;
+    width: 90%;
+    max-width: 500px;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.input-box input{
+    outline: 0;
+    border: 0   ;
+}
+.input-box img{
+    width: 40px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#eyeopen , eyeclose{
+    cursor: pointer;
+}
